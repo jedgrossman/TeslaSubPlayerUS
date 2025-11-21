@@ -1,0 +1,7 @@
+App(
+    appid="tesla_subghz_launcher",
+    name="Tesla Launcher",
+    apptype=Application,
+    entry_point="tesla_app_start",
+    requires=["gui", "subghz"],
+)
